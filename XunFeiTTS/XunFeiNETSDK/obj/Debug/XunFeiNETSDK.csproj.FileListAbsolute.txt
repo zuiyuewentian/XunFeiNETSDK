@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\bin\Debug\XunFeiNETSDK.dll
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\bin\Debug\XunFeiNETSDK.pdb
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\bin\Debug\websocket-sharp.dll
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\bin\Debug\websocket-sharp.xml
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\obj\Debug\XunFeiNETSDK.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\obj\Debug\XunFeiNETSDK.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\obj\Debug\XunFeiNETSDK.csproj.CopyComplete
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\obj\Debug\XunFeiNETSDK.dll
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\obj\Debug\XunFeiNETSDK.pdb
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\WindowsFormsApp1\XunFeiNETSDK\bin\Debug\Newtonsoft.Json.xml
